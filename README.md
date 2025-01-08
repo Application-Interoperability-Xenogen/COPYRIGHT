@@ -23,7 +23,7 @@ Certain components of the Materials may be subject to additional protections und
 Collaboration and Licensing:
 For research collaboration inquiries, licensing requests, and permissions, please contact:
 Ronaldson Bellande
-Bellande Technologies Corperation Inc
+Bellande Technologies Corporation Inc
 Bellande Application Interoperability Xenogen Research Innovation Center
 
 Attribution Requirements:
